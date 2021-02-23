@@ -1,0 +1,26 @@
+.container {
+    margin-top: 50px;
+    display: flex;
+    justify-content: center;
+}
+
+button{
+    padding: 10px;
+    background-color: rgb(130, 130, 226);
+    color: white;
+    border: none;
+    border-radius: 5px;
+}
+
+
+
+.desc {
+
+    width: 800px;
+    margin: auto;
+    height: 100%;
+    box-shadow: 1px 1px 5px rgba(0, 0, 0, 0.4);
+    background-color: #eee;
+    padding: 40px;
+    border-radius: 5px;    
+}
